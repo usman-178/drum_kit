@@ -1,0 +1,87 @@
+body{
+  background-color: #002B5B;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+    font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+
+.heading{
+  text-align: center;
+  font-size: 6rem;
+  color: white;
+  margin-bottom: 1rem;
+}
+.drums{
+  text-align: center;
+}
+
+
+
+
+
+
+.footer{
+  text-align: center;
+}
+.drum{
+  width: 7rem;
+  height: 7rem;
+  border-radius: 30px 60px;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  font-size: 3rem;
+  color: #E6A9EC;
+  background-color: #2B4865;
+  border: 3px solid #E6A9EC;
+}
+
+.w{
+  background-image: url(images/crash.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  }
+
+.a{
+  background-image: url(images/kick.png);
+}
+.s{
+  background-image: url(images/snare.png);
+}
+.d{
+  background-image: url(images/tom1.png);
+}
+.j{
+  background-image: url(images/tom2.png);
+}
+.k{
+  background-image: url(images/tom3.png);
+}
+.l{
+  background-image: url(images/tom4.png);
+}
+.footer{
+  margin-top: 11rem;
+  background-color: #E6A9EC;
+  padding-bottom: 1.3rem;
+
+}
+.links{
+  margin-left: 3rem;
+  margin-right: 3rem;
+
+}
+.copyright{
+  padding-top: 2rem;
+}
+
+.drumtitle{
+  height: 10rem;
+  width: 10rem;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 3rem;
+
+}
